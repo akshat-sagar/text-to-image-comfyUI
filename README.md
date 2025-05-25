@@ -56,6 +56,8 @@ Here is a screenshot of how the workflow looks like:
 <img width="1403" alt="Screenshot 2025-05-26 at 2 56 40 AM" src="https://github.com/user-attachments/assets/8ca7cafc-7147-41b4-aca0-84d45c76ef2b" />
 
 Here is the output we got:
+
+
 ![output](https://github.com/user-attachments/assets/a53f4bf4-3a20-4d50-912c-8c960ab1cc01)
 
 
@@ -70,15 +72,6 @@ This project showcases practical understanding of:
 
 
 
-
----
-
-### ✅ What’s Next?
-
-Once this file is saved into your GitHub folder:
-> Let me know, and I’ll walk you through the **GitHub push** commands line by line.
-
-Let’s make sure you submit with the best impression possible. Ready to push?
 
 
 Author:
